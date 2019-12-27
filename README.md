@@ -44,5 +44,7 @@ https://github.com/asanakoy/kaggle_carvana_segmentation
 # cd albu
 # bash predict.sh
 # cd ..
+# source activate py35_albu
 # python generate_sub_final_ensemble.py
+# conda deactivate
 ```
