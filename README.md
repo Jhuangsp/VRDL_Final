@@ -1,7 +1,7 @@
 # VRDL_Final
 ## Code
  - `albu`:
-     - `configs`: the training config
+     - `configs`: Contains the training config
      - `src`: 
          - `train.py`: Main function for training
          - `transforms.py`: Data augmentation functions
@@ -11,7 +11,7 @@
          - `eval.py`: Evaluator definition
          - `dataset`: Some utils for loading dataset
          - `utils.py`: Utils for parsing configs and csv
-         - `generate_folds.py`: Generate data split folders
+         - `generate_folds.py`: Generate data splitting file
      - `fma.csv`: One way to spilt dataset
      - `predict.sh`: Prediction script
      - `train.sh`: Trianing script
