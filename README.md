@@ -1,7 +1,7 @@
 # VRDL_Final
 ## Code
  - `albu`:
-     - `configs`: 6 different training configs
+     - `configs`: the training config
      - `src`: 
          - `train.py`: Main function for training
          - `transforms.py`: Data augmentation functions
