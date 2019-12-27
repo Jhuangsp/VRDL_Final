@@ -28,10 +28,6 @@ Carvana Image Masking Challenge Rank 1
 
 https://github.com/asanakoy/kaggle_carvana_segmentation
 
-## Requirement
-Python 3.5
-Pytorch 0.2.0
-
 ## Installation
 ```
 # bash setup_env.sh
