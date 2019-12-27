@@ -48,5 +48,5 @@ Pytorch 0.2.0
 # cd albu
 # bash predict.sh
 # cd ..
-# bash generate_sub_final_ensemble.py
+# python generate_sub_final_ensemble.py
 ```
