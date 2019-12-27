@@ -33,13 +33,13 @@ https://github.com/asanakoy/kaggle_carvana_segmentation
 # bash setup_env.sh
 ```
 
-## How to train
+## Training
 ```
 # cd albu
 # bash train.sh
 ```
 
-## How to predict
+## Predict
 ```
 # cd albu
 # bash predict.sh
