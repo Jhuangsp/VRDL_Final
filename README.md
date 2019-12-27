@@ -1,5 +1,5 @@
 # VRDL_Final
-
+## Code
  - `albu`:
      - `configs`: 6 different training configs
      - `src`: 
@@ -25,6 +25,7 @@
 
 ## Reference
 Carvana Image Masking Challenge Rank 1
+
 https://github.com/asanakoy/kaggle_carvana_segmentation
 
 ## Requirement
@@ -32,14 +33,14 @@ Python 3.5
 Pytorch 0.2.0
 
 ## Installation
-`# bash setup_env.sh`
+```# bash setup_env.sh```
 
 ## How to train
-`# cd albu`
-`# bash train.sh`
+```# cd albu
+# bash train.sh```
 
 ## How to predict
-`# cd albu`
-`# bash predict.sh`
-`# cd ..`
-`# bash generate_sub_final_ensemble.py`
+```# cd albu
+# bash predict.sh
+# cd ..
+# bash generate_sub_final_ensemble.py```
